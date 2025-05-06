@@ -6,3 +6,6 @@
 
 4- weather-search website: https://github.com/Nada602/realtime-platform
 
+5- news website: https://github.com/Nada602/news-app
+
+
